@@ -1,0 +1,59 @@
+
+
+.historyItemBox {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 30px;
+    padding: 10px;
+    width: 90%;
+    margin: 20px auto;
+}
+
+.historysingleItem {
+    border: 1px solid black;
+    border-radius: 8px;
+}
+
+#sortSalary {
+    margin-bottom: 12px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    overflow: hidden;
+}
+
+/* media queries for average screen */
+@media screen and (min-width: 900px) and (max-width: 1050px){
+    .historyItemBox {
+        gap: 20px;
+        padding: 10px;
+        width: 98%;
+        margin: 15px auto;
+    }
+          
+}
+
+@media screen and (min-width: 750px) and (max-width: 899px){
+    .historyItemBox {
+        grid-template-columns: repeat(2,1fr);
+    }
+}
+
+@media screen and (min-width: 350px) and (max-width: 749px){
+    .historyItemBox {
+        grid-template-columns: repeat(1,1fr);
+    }
+}
+
+/* media queries for small screen */
+@media screen and (min-width: 0px) and (max-width: 349px){
+    .historyItemBox {
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+        gap: 2px;
+        padding: 10px;
+        width: 96%;
+        margin: 10px auto;
+    }
+           
+}

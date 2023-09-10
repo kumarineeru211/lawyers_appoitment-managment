@@ -1,0 +1,148 @@
+{
+
+  "law_firms": [
+  {
+    "name" : "Alliance Law Group",
+    "id" : 1,
+    "employees" : [
+      {
+        "image" : "https://cdn-icons-png.flaticon.com/512/2202/2202112.png",
+        "emp_name" : "Mr. Shubham",
+        "Speciality" : "divorce lawyer",
+        "price" : 5000,
+        "id" : 1  
+      },
+      {
+        "image" : "https://cdn-icons-png.flaticon.com/512/2202/2202112.png",
+        "emp_name" : "Mr. Shivam",
+        "Speciality" : "criminal lawyer",
+        "price" : 7000,
+        "id" : 2  
+      },
+      {
+        "image" : "https://cdn-icons-png.flaticon.com/512/4128/4128176.png",
+        "emp_name" : "Mr. Aryan",
+        "Speciality" : "property  lawyer",
+        "price" : 9000,
+        "id" : 3  
+      }
+
+    ]
+    
+  },
+  {
+    "name" : "American Justice",
+    "id" : 2,
+    "employees" : [
+      {
+        "image" : "https://cdn-icons-png.flaticon.com/512/4128/4128176.png",
+        "emp_name" : "Mr. Amit",
+        "Speciality" : "divorce lawyer",
+        "price" : 5000,
+        "id" : 1  
+      },
+      {
+        "image" : "https://cdn-icons-png.flaticon.com/512/6997/6997662.png",
+        "emp_name" : "Mrs. Soni ",
+        "Speciality" : "criminal lawyer",
+        "price" : 7000,
+        "id" : 2  
+      },
+      {
+        "image" : "https://cdn-icons-png.flaticon.com/512/6997/6997662.png",
+        "emp_name" : "Mrs. Nikita",
+        "Speciality" : "property  lawyer",
+        "price" : 9000,
+        "id" : 3  
+      }
+
+    ] 
+  },
+  {
+    "name" : "BitLaw Associates",
+    "id" : 3,
+    "employees" : [
+      {
+        "image" : "https://cdn-icons-png.flaticon.com/512/2459/2459608.png",
+        "emp_name" : "Mrs. Khushboo",
+        "Speciality" : "divorce lawyer",
+        "price" : 5000,
+        "id" : 1  
+      },
+      {
+        "image" : "https://cdn-icons-png.flaticon.com/512/2459/2459608.png",
+        "emp_name" : "Mrs. Priti",
+        "Speciality" : "criminal lawyer",
+        "price" : 7000,
+        "id" : 2  
+      },
+      {
+        "image" : "https://cdn-icons-png.flaticon.com/512/6997/6997662.png",
+        "emp_name" : "Mrs. Puja",
+        "Speciality" : "property  lawyer",
+        "price" : 9000,
+        "id" : 3  
+      }
+
+    ] 
+  },
+  {
+    "name" : "Assessment Group",
+    "id" : 4,
+    "employees" : [
+      {
+        "image" : "https://cdn-icons-png.flaticon.com/512/6997/6997662.png",
+        "emp_name" : "Mrs. Shivani",
+        "Speciality" : "divorce lawyer",
+        "price" : 5000,
+        "id" : 1  
+      },
+      {
+        "image" : "https://cdn-icons-png.flaticon.com/512/2459/2459608.png",
+        "emp_name" : "Mrs. Jyoti",
+        "Speciality" : "criminal lawyer",
+        "price" : 7000,
+        "id" : 2  
+      },
+      {
+        "image" : "https://cdn-icons-png.flaticon.com/512/2459/2459608.png",
+        "emp_name" : "Mrs. Sita",
+        "Speciality" : "property  lawyer",
+        "price" : 9000,
+        "id" : 3  
+      }
+
+    ] 
+  },
+  {
+    "name" : "Advantage Law Firm",
+    "id" : 5,
+    "employees" : [
+      {
+        "image" : "https://cdn-icons-png.flaticon.com/512/4128/4128176.png",
+        "emp_name" : "Mr. Ritik",
+        "Speciality" : "divorce lawyer",
+        "price" : 5000,
+        "id" : 1  
+      },
+      {
+        "image" : "https://cdn-icons-png.flaticon.com/512/5948/5948829.png",
+        "emp_name" : "Mr. Shiva",
+        "Speciality" : "criminal lawyer",
+        "price" : 7000,
+        "id" : 2  
+      },
+      {
+        "image" : "https://cdn-icons-png.flaticon.com/512/5948/5948829.png",
+        "emp_name" : "Mr. Surya",
+        "Speciality" : "property  lawyer",
+        "price" : 9000,
+        "id" : 3  
+      }
+
+    ] 
+  } 
+]
+
+
+}
